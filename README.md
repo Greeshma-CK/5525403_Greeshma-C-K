@@ -1,10 +1,8 @@
 # 5525403\_Greeshma-C-K
 
+## SDLC
 
-
-\##SDLC
-
-\###I have successfully completed the course "Agile for Beginners"
+##### I have successfully completed the course "Agile for Beginners"
 
 
 
