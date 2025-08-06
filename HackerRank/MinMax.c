@@ -16,12 +16,6 @@ char** split_string(char*);
 
 int parse_int(char*);
 
-/*
- * Complete the 'miniMaxSum' function below.
- *
- * The function accepts INTEGER_ARRAY arr as parameter.
- */
-
 void miniMaxSum(int arr_count, int* arr) {
     long tot = 0;
     int max = arr[0];
