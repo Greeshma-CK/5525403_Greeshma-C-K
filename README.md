@@ -7,6 +7,7 @@
 ## Git
 
 #### I have successfully completed the online course "Git Training" and attached my certificate in Git folder
+<img .src = "Git/GIT certificate.png" alt = "git certification">
 
 ## C Programming
 
